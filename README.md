@@ -23,3 +23,5 @@ Copyright (C) 2020 Edgar Guevara, PhD
 ______________________________________________________________________________
 ```
 Test this function with images provided by this [tutorial](http://www.youtube.com/watch?v=MfynPd2PW0Y)
+
+[![View scanimation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/80706-scanimation)
