@@ -1,5 +1,9 @@
 # scanimation
-Scanimation (a.k.a. Barrier-grid animation, picket-fence animation or kinegram) is an animation effect created by moving a striped transparent overlay across an interlaced image.
+Scanimation (a.k.a. Barrier-grid animation, picket-fence animation or
+kinegram) is an animation effect created by moving a striped transparent
+overlay across an interlaced image.
+
+```
 SYNTAX
 [encodedAnimation, venetianBlindsPattern] = scanimation...
 (transparentColumnWidth, animationFolder)
@@ -17,3 +21,4 @@ venetianBlindsPattern     Image to be printed on a transparent medium (2D matrix
 ______________________________________________________________________________
 Copyright (C) 2020 Edgar Guevara, PhD
 ______________________________________________________________________________
+```
