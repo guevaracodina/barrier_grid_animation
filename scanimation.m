@@ -1,5 +1,5 @@
-function [encodedAnimation, venetianBlindsPattern] = scanimation(varargin)
-% Scanimation (a.k.a. Barrier-grid animation, picket-fence animation or
+function [encodedAnimation, venetianBlindsPattern] = barrier_grid_animation(varargin)
+% Barrier-grid animation (a.k.a. picket-fence animation or
 % kinegram) is an animation effect created by moving a striped transparent
 % overlay across an interlaced image.
 % SYNTAX
