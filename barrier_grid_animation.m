@@ -3,7 +3,7 @@ function [encodedAnimation, venetianBlindsPattern] = barrier_grid_animation(vara
 % kinegram) is an animation effect created by moving a striped transparent
 % overlay across an interlaced image.
 % SYNTAX
-% [encodedAnimation, venetianBlindsPattern] = scanimation...
+% [encodedAnimation, venetianBlindsPattern] = barrier_grid_animation...
 % (transparentColumnWidth, animationFolder)
 % INPUTS
 % [OPTIONAL INPUTS]
