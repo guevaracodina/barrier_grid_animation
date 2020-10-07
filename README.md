@@ -23,6 +23,7 @@ Copyright (C) 2020 Edgar Guevara, PhD
 ______________________________________________________________________________
 ```
 Test this function with images provided by this [tutorial](http://www.youtube.com/watch?v=MfynPd2PW0Y)
+
 In the early 2,000’s, a version of Barrier Grid Animation called “Scanimation®” was popularized by Rufus Butler Seder in such children’s books as “GALLOP!” and “STAR WARS.
 
 [![View barrier_grid_animation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/80706-scanimation)
